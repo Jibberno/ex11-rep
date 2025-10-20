@@ -6,4 +6,19 @@
 
 html {
   background-color: rgb(158, 238, 238);
+  color: black;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.title {
+  font-family: 'libre-bakersville';
+}
+
+.fontname {
+
+}
+
+.fable {
+
 }
