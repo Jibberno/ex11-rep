@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+.sedan-sc-regular {
+  font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 html {
   background-color: rgb(158, 238, 238);
   color: black;
