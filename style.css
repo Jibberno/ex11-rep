@@ -5,10 +5,11 @@
 }
 
 html {
-  background-color: #eff0f3;
+  background-image: linear-gradient(to bottom, #DAE9F0, #81CBDE, #3672FF);
   color: black;
   font-family: sans-serif;
   font-size: 16px;
+  min-height: 100%;
 }
 
 .title {
@@ -33,4 +34,4 @@ html {
   margin: 15px 170px 30px;
   color: rgb(32, 32, 32);
   text-align: center;
-}
+} 
