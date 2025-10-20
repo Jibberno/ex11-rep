@@ -30,7 +30,7 @@ html {
 .fable {
   font-family: 'montserrat', serif;
   line-height: 1.5;
-  margin-bottom: 10%;
+  margin: 15px 170px 30px;
   color: rgb(32, 32, 32);
   text-align: center;
 }
