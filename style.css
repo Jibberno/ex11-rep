@@ -25,8 +25,12 @@ html {
 
 .fontname {
   font-family: 'Sedan-Sc', serif;
+  font-size: 0.75rem;
+  color: darkgray;
 }
 
 .fable {
   font-family: 'montserrat', serif;
+  line-height: 1.5;
+  margin-bottom: 10%;
 }
